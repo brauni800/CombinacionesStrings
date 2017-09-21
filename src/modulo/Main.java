@@ -4,6 +4,6 @@ public class Main {
 
 	public static void main(String[] args) {
 		Logica log = new Logica();
-		log.start(new String[] {"La", "casa", "esta", "bonita"});
+		log.start(args);
 	}
 }
