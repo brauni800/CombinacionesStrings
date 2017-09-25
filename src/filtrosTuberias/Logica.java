@@ -1,4 +1,4 @@
-package modulo;
+package filtrosTuberias;
 
 public class Logica {
 

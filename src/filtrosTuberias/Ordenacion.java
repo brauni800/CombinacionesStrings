@@ -1,4 +1,4 @@
-package modulo;
+package filtrosTuberias;
 
 import java.util.Collections;
 import java.util.List;

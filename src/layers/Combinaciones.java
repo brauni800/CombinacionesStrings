@@ -3,7 +3,7 @@ package layers;
 import java.util.LinkedList;
 import java.util.List;
 
-import modulo.Ordenacion;
+import filtrosTuberias.Ordenacion;
 
 public class Combinaciones {
 

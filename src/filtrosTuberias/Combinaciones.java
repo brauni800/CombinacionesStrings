@@ -1,4 +1,4 @@
-package modulo;
+package filtrosTuberias;
 
 import java.util.LinkedList;
 import java.util.List;
